@@ -6,7 +6,7 @@ Soy Estudiante de Programacion en UTN-FRA :man_technologist:
 
 ##
 
-- :robot: Tengo 21 años
+- :robot: Tengo 23 años
 - :earth_americas: Soy de Argentina 
 - :video_game: Me encantan los videojuegos
 - :blue_heart: Programación
