@@ -1,7 +1,7 @@
 ### Hola Soy Matias👋,Bienvenido a mi GitHub!
 
 
-Soy Estudiante de Programacion en UTN-FRA :man_technologist:
+Soy Estudiante de Programacion :man_technologist:
 💻 
 
 ##
