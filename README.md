@@ -15,7 +15,7 @@ Soy Estudiante de Programacion :man_technologist:
 ```javascript
 const Matias = {
   pronouns: "He" | "Him",
-  code: [Javascript, C, HTML, CSS]
+  code: [Javascript, C#, C, HTML, CSS]
 }
 ```
 ##
