@@ -1,36 +1,34 @@
-### Hola Soy Matias👋,Bienvenido a mi GitHub!
+<h1 align="center">Hola 👋, soy Matías Sposaro</h1>
+<h3 align="center">Desarrollador en formación, apasionado por la programación y la tecnología</h3>
 
+---
 
-Soy Estudiante de Programacion :man_technologist:
-💻 
+### 🚀 Sobre mí
 
-##
+🎓 Soy estudiante de la Tecnicatura Superior en Análisis, Desarrollo y Programación de Aplicaciones.  
+💻 Me encanta desarrollar software y crear soluciones tecnológicas que faciliten la vida de las personas.  
+🎯 Actualmente busco una oportunidad para iniciar mi carrera como programador.  
+📚 Siempre estoy aprendiendo nuevas tecnologías y fortaleciendo mis conocimientos en desarrollo de software.
 
-- :robot: Tengo 23 años
-- :earth_americas: Soy de Argentina 
-- :video_game: Me encantan los videojuegos
-- :blue_heart: Programación
-##
+---
 
-```javascript
-const Matias = {
-  pronouns: "He" | "Him",
-  code: [Javascript, C#, C, HTML, CSS]
-}
-```
-##
-![MatiasSposaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasSposaro1&show_icons=true&theme=radical)
-<!--
-**MatiasSposaro1/MatiasSposaro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tecnologías que uso
 
-Here are some ideas to get you started:
+- 💻 **Lenguajes:** C#, JavaScript, HTML, CSS
+- 🧰 **Frameworks y herramientas:** .NET, Windows Forms, Git, GitHub
+- 🗃️ **Bases de datos:** SQL Server, MySQL
+- 🎨 **Diseño:** Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 ¿Querés contactarme?
+
+- Email: **matiassposarobeccan@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/matias-sposaro-469182210/
+
+---
+
+### 📈 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasSposaro1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasSposaro1&layout=compact&theme=tokyonight)
